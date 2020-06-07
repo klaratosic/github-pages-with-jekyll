@@ -3,6 +3,8 @@ title: "My Resume"
 date: 2020-06-07
 ---
 
+Please click on "My Resume" to access full content.
+
 Experience:
 1. I am the President of my school's Science Honor Society. I lead meetings, delegate tasks, and provide general direction for the club. Also, I tutor students throughout the year in science courses.
 2. I help plan and run my school's Code Club events. Hour of Code is our largest event and I have run the code.org station where I conduct challenges for coding graphics.
